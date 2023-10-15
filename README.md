@@ -16,19 +16,14 @@ Setup:
 -	From Tools > Board > Select “Generic ESP8266 Module”
 -	Open ABMeter_PH2.ino and send it to the board connected over USB 
 -	One device is flashed, disconnect power, hook up the PH meter and power on the device.
-o	Device will broadcast its own WiFI with the following creds: 
-	SSID: Autobud_DataCollector
-	Password: Grow4life
-o	Once you connect to that network browse to http://192.168.4.1
-o	Refer to the UI image to see where to enter your creds, or continue without adding the device to your WiFi Network
+-	Device will broadcast its own WiFI with the following creds: 
+    SSID: Autobud_DataCollector
+    Password: Grow4life
+-	Once you connect to that network browse to http://192.168.4.1
+-	Refer to the UI image to see where to enter your creds, or continue without adding the device to your WiFi Network
 
 Configuration:
 The PH meter must be calibrated before use. The DFRobot Analog PH Sensor comes with PH4 and PH7 reference solutions. To calibrate, dip the sensor in the respective
 Solution and press calibrate on the UI for the solution type.
 
 End notes: This device is still in testing but thus far it has been accurate to 0.1 PH to my Blue Labs PH meter. Calibration is key 
-
-
-
-
-![image](https://github.com/Techn0Hippie/ABMeter_PH/assets/76974910/56b55383-0949-42d6-b634-2977222a2724)
