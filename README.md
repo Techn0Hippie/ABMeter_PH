@@ -10,7 +10,7 @@ Hardware needed (under $60):
 -	ESP8266 NodeMCU: https://www.amazon.com/HiLetgo-Internet-Development-Wireless-Micropython/dp/B010O1G1ES/ref=sr_1_7_sspa?crid=2MUXP747Y3CPV&keywords=node%2Bmcu&qid=1697305414&sprefix=node%2Bmcu%2Caps%2C85&sr=8-7-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&th=1
 
 Wiring: 
-![alt text](https://github.com/Techn0Hippie/ABMeter_PH/blob/main/ABdc_PH_wire.jpg)
+(https://github.com/Techn0Hippie/ABMeter_PH/blob/main/ABdc_PH_wire.jpg)
 
 Setup:
 -	Download and install Arduino if you do not already have it: https://www.arduino.cc/en/software
